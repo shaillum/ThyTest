@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.companyname.bank.AppTest" time="0.003" errors="0" skipped="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="PD_SOCKET" value="6874"/>
+    <property name="LOGONSERVER" value="\\SHAILENDRAM_PC"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files (x86)\Java\jre1.8.0_45"/>
+    <property name="TITLE" value="Tomcat"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/jenkins/"/>
+    <property name="CATALINA_HOME" value="C:\tomcat"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Java\jre1.8.0_45\lib\endorsed"/>
+    <property name="TSMPATH" value="C:\Program Files\ThinkPad\UltraNav Utility"/>
+    <property name="PSModulePath" value="C:\windows\system32\WindowsPowerShell\v1.0\Modules\"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="SHAILENDRAM_PC"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="JAVA_OPTS" value=" -Djava.util.logging.config.file=&quot;C:\tomcat\conf\logging.properties&quot; -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.8.0_45"/>
+    <property name="JOB_NAME" value="CounterWebApp"/>
+    <property name="COMPUTERNAME" value="SHAILENDRAM_PC"/>
+    <property name="EXECUTABLE" value="C:\tomcat\bin\catalina.bat"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="user.name" value="Shailendra"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\windows"/>
+    <property name="ACPath" value="C:\Program Files (x86)\Lenovo\Access Connections\"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\IBM_ADMIN\AppData\Local"/>
+    <property name="user.timezone" value="Asia/Muscat"/>
+    <property name="PROCESSOR_ARCHITEW6432" value="AMD64"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="BUILD_TAG" value="jenkins-CounterWebApp-15"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main C:\Apache\apache-maven-3.3.3 C:\tomcat\webapps\jenkins\WEB-INF\lib\remoting-2.49.jar C:\Users\IBM_ADMIN\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar C:\Users\IBM_ADMIN\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar 62451"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/jenkins/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="b5e1dc1e69a2d05b"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="Path" value="C:\Program Files (x86)\Java\jre1.8.0_45/bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\IBM\Infoprint Select;C:\Program Files\ThinkPad\Bluetooth Software\;C:\Program Files\ThinkPad\Bluetooth Software\syswow64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Lenovo\Access Connections\;C:\Program Files (x86)\IBM\Mobility Client\;C:\Program Files (x86)\Subversion\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\tomcat\bin;C:\Program Files (x86)\Java\jre1.8.0_45\bin;C:\apache-ant-1.9.4\bin;C:\Apache\apache-maven-3.3.3\bin;"/>
+    <property name="java.io.tmpdir" value="C:\Users\IBM_AD~1\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\IBM_ADMIN\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="CATALINA_TMPDIR" value="C:\tomcat\temp"/>
+    <property name="line.separator" value="
+"/>
+    <property name="BUILD_URL" value="http://localhost:8080/jenkins/job/CounterWebApp/15/"/>
+    <property name="JAVA_ENDORSED_DIRS" value="C:\tomcat\endorsed"/>
+    <property name="ACTION" value="start"/>
+    <property name="M2_HOME" value="C:\Apache\apache-maven-3.3.3"/>
+    <property name="=C:" value="C:\Users\IBM_ADMIN"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#15"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CATALINA_BASE" value="C:\tomcat"/>
+    <property name="HUDSON_SERVER_COOKIE" value="b5e1dc1e69a2d05b"/>
+    <property name="JRE_HOME" value="C:\Program Files (x86)\Java\jre1.8.0_45"/>
+    <property name="_EXECJAVA" value="start &quot;Tomcat&quot; &quot;C:\Program Files (x86)\Java\jre1.8.0_45\bin\java&quot;"/>
+    <property name="_RUNJAVA" value="&quot;C:\Program Files (x86)\Java\jre1.8.0_45\bin\java&quot;"/>
+    <property name="MAVEN_HOME" value="C:\Apache\apache-maven-3.3.3"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\IBM_ADMIN\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="LOGGING_CONFIG" value="-Djava.util.logging.config.file=&quot;C:\tomcat\conf\logging.properties&quot;"/>
+    <property name="HOMEPATH" value="\Users\IBM_ADMIN"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="=A:" value="A:\"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="BUILD_NUMBER" value="15"/>
+    <property name="maven3.interceptor" value="C:\Users\IBM_ADMIN\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar"/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Java\jre1.8.0_45\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Apache\apache-maven-3.3.3/bin;C:\Program Files (x86)\Java\jre1.8.0_45/bin;C:\Program Files (x86)\Java\jre1.8.0_45/bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\IBM\Infoprint Select;C:\Program Files\ThinkPad\Bluetooth Software\;C:\Program Files\ThinkPad\Bluetooth Software\syswow64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Lenovo\Access Connections\;C:\Program Files (x86)\IBM\Mobility Client\;C:\Program Files (x86)\Subversion\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\tomcat\bin;C:\Program Files (x86)\Java\jre1.8.0_45\bin;C:\apache-ant-1.9.4\bin;C:\Apache\apache-maven-3.3.3\bin;;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="com.mkyong"/>
+    <property name="POM_ARTIFACTID" value="CounterWebApp"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="LOGGING_MANAGER" value="-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
+    <property name="_RUNJDB" value="&quot;C:\Program Files (x86)\Java\jre1.8.0_45\bin\jdb&quot;"/>
+    <property name="JOB_URL" value="http://localhost:8080/jenkins/job/CounterWebApp/"/>
+    <property name="ANT_HOME" value="C:\apache-ant-1.9.4"/>
+    <property name="MAINCLASS" value="org.apache.catalina.startup.Bootstrap"/>
+    <property name="JENKINS_HOME" value="C:\Users\IBM_ADMIN\.jenkins"/>
+    <property name="BUILD_ID" value="2015-06-21_08-13-41"/>
+    <property name="TEMP" value="C:\Users\IBM_AD~1\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jre1.8.0_45\bin"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="3a09"/>
+    <property name="POM_VERSION" value="1.0-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\IBM_ADMIN\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Apache\apache-maven-3.3.3/bin"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="CURRENT_DIR" value="C:\Users\IBM_ADMIN"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\Program Files (x86)\Java\jre1.8.0_45"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+    <property name="USERPROFILE" value="C:\Users\IBM_ADMIN"/>
+    <property name="PDBASE" value="C:\Program Files\IBM\Infoprint Select"/>
+    <property name="asl.log" value="Destination=file"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jre1.8.0_45\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\IBM_ADMIN"/>
+    <property name="USERNAME" value="Shailendra"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="COMMPath" value="C:\Program Files\Lenovo\Communications Utility"/>
+    <property name="user.dir" value="C:\Apache\apache-maven-3.3.3\CounterWebApp"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\IBM_AD~1\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="25.45-b02"/>
+    <property name="java.class.path" value="C:\Users\IBM_ADMIN\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-agent-1.5.jar;C:\Apache\apache-maven-3.3.3\boot\plexus-classworlds-2.5.2.jar;C:\Apache\apache-maven-3.3.3/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="x86"/>
+    <property name="WORKSPACE" value="C:\Users\IBM_ADMIN\.jenkins\workspace\CounterWebApp"/>
+    <property name="ComSpec" value="C:\windows\system32\cmd.exe"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="SystemRoot" value="C:\windows"/>
+    <property name="CommonProgramFiles" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.8.0_45-b14"/>
+    <property name="ProgramFiles" value="C:\Program Files (x86)"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jre1.8.0_45\lib\resources.jar;C:\Program Files (x86)\Java\jre1.8.0_45\lib\rt.jar;C:\Program Files (x86)\Java\jre1.8.0_45\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jre1.8.0_45\lib\jsse.jar;C:\Program Files (x86)\Java\jre1.8.0_45\lib\jce.jar;C:\Program Files (x86)\Java\jre1.8.0_45\lib\charsets.jar;C:\Program Files (x86)\Java\jre1.8.0_45\lib\jfr.jar;C:\Program Files (x86)\Java\jre1.8.0_45\classes"/>
+    <property name="APR_ICONV_PATH" value="C:\Program Files (x86)\Subversion\iconv"/>
+    <property name="PATH+JDK" value="C:\Program Files (x86)\Java\jre1.8.0_45/bin"/>
+    <property name="user.country" value="US"/>
+    <property name="POM_PACKAGING" value="war"/>
+    <property name="maven.home" value="C:\Apache\apache-maven-3.3.3"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="CounterWebApp Maven Webapp"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="32"/>
+  </properties>
+  <testcase classname="com.companyname.bank.AppTest" name="testApp" time="0.003"/>
+</testsuite>
